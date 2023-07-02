@@ -1,0 +1,29 @@
+h1{
+	color: white;
+	text-align: center;
+}
+.opis{
+	margin-top:5%;
+	text-align: center;
+}
+.tabela{
+	width: 60vw;
+	height:40vh;
+	background-color: white;
+	margin-top:10%;
+	margin-bottom:10%;
+	margin-left:20%;
+	margin-right:20%;
+}
+.lewa{
+	width:60%;
+	height:100%;
+	float:left;
+}
+.prawa{
+	width:40%;
+	height:100%;
+	float:right;
+	background-image: url('../obrazy/autor1.jpg');
+	background-size: cover;
+}
